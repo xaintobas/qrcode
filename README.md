@@ -59,9 +59,11 @@ I also learned the justify-content and align-items properties and how they reall
 
 In future projects, I would want to focus more on building advanced layouts using flex box. Sometimes I still make some mistakes with some of the CSS properties that goes with flexbox.
 
+
 ## Author
 
 - Website - Stephen [https://xaintobas.github.io/qrcode/]
 - Frontend Mentor - https://www.frontendmentor.io/profile/xaintobas
 - Twitter - https://x.com/xaint_obas
+
 ```
