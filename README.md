@@ -27,23 +27,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 After completing this challenge, I have some ideas on using Flexbox.
 I also learned the justify-content and align-items properties and how they really function.
 
-```css
-.container{
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
 ### Continued development
 
 In future projects, I would want to focus more on building advanced layouts using flex box. Sometimes I still make some mistakes with some of the CSS properties that goes with flexbox.
-
 
 ## Author
 
 - Website - Stephen [https://xaintobas.github.io/qrcode/]
 - Frontend Mentor - https://www.frontendmentor.io/profile/xaintobas
 - Twitter - https://x.com/xaint_obas
-```
