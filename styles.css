@@ -18,7 +18,6 @@ body{
   border-radius: 15px 15px 15px 15px;
   width: 250px;
   padding: 1rem 1rem 1.2rem 1rem;
-  margin-bottom: 1.5rem;
   box-shadow: hsla(0, 0%, 48%, 0.096) 0 0 50px;
 }
 
@@ -41,6 +40,7 @@ p{
 .attribution { 
   font-size: 15px; 
   text-align: center; 
+  margin-top: -3rem;
 }
 .attribution a { 
   color: hsl(228, 45%, 44%); 
